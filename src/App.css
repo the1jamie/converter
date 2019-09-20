@@ -1,0 +1,29 @@
+form.App {
+  width: 32rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 1px 1px 16px #ccc;
+}
+
+form.App .formSection input {
+  width: 20rem;
+  height: 4rem;
+  margin: 1rem 0.5rem;
+}
+
+form.App .formSection input[value] {
+  font-size: 2rem;
+}
+
+form.App .formSection select {
+  height: 3rem;
+  width: 4.5rem;
+  font-size: 1rem;
+}
+
+form.App a {
+  float: right;
+  margin: 0 3rem;
+}
+
